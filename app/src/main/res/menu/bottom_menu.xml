@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/HomeButton"
+        android:icon="@drawable/jh_navi_home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/CookButton"
+        android:icon="@drawable/jh_navi_cook"
+        android:title="Cook"/>
+
+    <item
+        android:id="@+id/RefrigeratorButton"
+        android:icon="@drawable/jh_navi_friger"
+        android:title="Friger"/>
+
+    <item
+        android:id="@+id/SaveButton"
+        android:icon="@drawable/jh_navi_save"
+        android:title="Save"/>
+</menu>
